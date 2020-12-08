@@ -1,0 +1,708 @@
+﻿1,막치기,はたく,Pound,Écras’Face,Pfund
+2,태권당수,からてチョップ,Karate Chop,Poing-Karaté,Karateschlag
+3,연속뺨치기,おうふくビンタ,Double Slap,Torgnoles,Duplexhieb
+4,연속펀치,れんぞくパンチ,Comet Punch,Poing Comète,Kometenhieb
+5,메가톤펀치,メガトンパンチ,Mega Punch,Ultimapoing,Megahieb
+6,고양이돈받기,ネコにこばん,Pay Day,Jackpot,Zahltag
+7,불꽃펀치,ほのおのパンチ,Fire Punch,Poing de Feu,Feuerschlag
+8,냉동펀치,れいとうパンチ,Ice Punch,Poing-Glace,Eishieb
+9,번개펀치,かみなりパンチ,Thunder Punch,Poing-Éclair,Donnerschlag
+10,할퀴기,ひっかく,Scratch,Griffe,Kratzer
+11,찝기,はさむ,Vise Grip,Force Poigne,Klammer
+12,가위자르기,ハサミギロチン,Guillotine,Guillotine,Guillotine
+13,칼바람,かまいたち,Razor Wind,Coupe-Vent,Klingensturm
+14,칼춤,つるぎのまい,Swords Dance,Danse-Lames,Schwerttanz
+15,풀베기,いあいぎり,Cut,Coupe,Zerschneider
+16,바람일으키기,かぜおこし,Gust,Tornade,Windstoß
+17,날개치기,つばさでうつ,Wing Attack,Cru-Aile,Flügelschlag
+18,날려버리기,ふきとばし,Whirlwind,Cyclone,Wirbelwind
+19,공중날기,そらをとぶ,Fly,Vol,Fliegen
+20,조이기,しめつける,Bind,Étreinte,Klammergriff
+21,힘껏치기,たたきつける,Slam,Souplesse,Slam
+22,덩굴채찍,つるのムチ,Vine Whip,Fouet Lianes,Rankenhieb
+23,짓밟기,ふみつけ,Stomp,Écrasement,Stampfer
+24,두번치기,にどげり,Double Kick,Double Pied,Doppelkick
+25,메가톤킥,メガトンキック,Mega Kick,Ultimawashi,Megakick
+26,점프킥,とびげり,Jump Kick,Pied Sauté,Sprungkick
+27,돌려차기,まわしげり,Rolling Kick,Mawashi Geri,Fegekick
+28,모래뿌리기,すなかけ,Sand Attack,Jet de Sable,Sandwirbel
+29,박치기,ずつき,Headbutt,Coup d’Boule,Kopfnuss
+30,뿔찌르기,つのでつく,Horn Attack,Koud’Korne,Hornattacke
+31,마구찌르기,みだれづき,Fury Attack,Furie,Furienschlag
+32,뿔드릴,つのドリル,Horn Drill,Empal’Korne,Hornbohrer
+33,몸통박치기,たいあたり,Tackle,Charge,Tackle
+34,누르기,のしかかり,Body Slam,Plaquage,Bodyslam
+35,김밥말이,まきつく,Wrap,Ligotage,Wickel
+36,돌진,とっしん,Take Down,Bélier,Bodycheck
+37,난동부리기,あばれる,Thrash,Mania,Fuchtler
+38,이판사판태클,すてみタックル,Double-Edge,Damoclès,Risikotackle
+39,꼬리흔들기,しっぽをふる,Tail Whip,Mimi-Queue,Rutenschlag
+40,독침,どくばり,Poison Sting,Dard-Venin,Giftstachel
+41,더블니들,ダブルニードル,Twineedle,Double-Dard,Duonadel
+42,바늘미사일,ミサイルばり,Pin Missile,Dard-Nuée,Nadelrakete
+43,째려보기,にらみつける,Leer,Groz’Yeux,Silberblick
+44,물기,かみつく,Bite,Morsure,Biss
+45,울음소리,なきごえ,Growl,Rugissement,Heuler
+46,울부짖기,ほえる,Roar,Hurlement,Brüller
+47,노래하기,うたう,Sing,Berceuse,Gesang
+48,초음파,ちょうおんぱ,Supersonic,Ultrason,Superschall
+49,소닉붐,ソニックブーム,Sonic Boom,Sonicboom,Ultraschall
+50,사슬묶기,かなしばり,Disable,Entrave,Aussetzer
+51,용해액,ようかいえき,Acid,Acide,Säure
+52,불꽃세례,ひのこ,Ember,Flammèche,Glut
+53,화염방사,かえんほうしゃ,Flamethrower,Lance-Flammes,Flammenwurf
+54,흰안개,しろいきり,Mist,Brume,Weißnebel
+55,물대포,みずでっぽう,Water Gun,Pistolet à O,Aquaknarre
+56,하이드로펌프,ハイドロポンプ,Hydro Pump,Hydrocanon,Hydropumpe
+57,파도타기,なみのり,Surf,Surf,Surfer
+58,냉동빔,れいとうビーム,Ice Beam,Laser Glace,Eisstrahl
+59,눈보라,ふぶき,Blizzard,Blizzard,Blizzard
+60,환상빔,サイケこうせん,Psybeam,Rafale Psy,Psystrahl
+61,거품광선,バブルこうせん,Bubble Beam,Bulles d’O,Blubbstrahl
+62,오로라빔,オーロラビーム,Aurora Beam,Onde Boréale,Aurorastrahl
+63,파괴광선,はかいこうせん,Hyper Beam,Ultralaser,Hyperstrahl
+64,쪼기,つつく,Peck,Picpic,Schnabel
+65,회전부리,ドリルくちばし,Drill Peck,Bec Vrille,Bohrschnabel
+66,지옥의바퀴,じごくぐるま,Submission,Sacrifice,Überroller
+67,안다리걸기,けたぐり,Low Kick,Balayage,Fußkick
+68,카운터,カウンター,Counter,Riposte,Konter
+69,지구던지기,ちきゅうなげ,Seismic Toss,Frappe Atlas,Geowurf
+70,괴력,かいりき,Strength,Force,Stärke
+71,흡수,すいとる,Absorb,Vol-Vie,Absorber
+72,메가드레인,メガドレイン,Mega Drain,Méga-Sangsue,Megasauger
+73,씨뿌리기,やどりぎのタネ,Leech Seed,Vampigraine,Egelsamen
+74,성장,せいちょう,Growth,Croissance,Wachstum
+75,잎날가르기,はっぱカッター,Razor Leaf,Tranch’Herbe,Rasierblatt
+76,솔라빔,ソーラービーム,Solar Beam,Lance-Soleil,Solarstrahl
+77,독가루,どくのこな,Poison Powder,Poudre Toxik,Giftpuder
+78,저리가루,しびれごな,Stun Spore,Para-Spore,Stachelspore
+79,수면가루,ねむりごな,Sleep Powder,Poudre Dodo,Schlafpuder
+80,꽃잎댄스,はなびらのまい,Petal Dance,Danse-Fleur,Blättertanz
+81,실뿜기,いとをはく,String Shot,Sécrétion,Fadenschuss
+82,용의분노,りゅうのいかり,Dragon Rage,Draco-Rage,Drachenwut
+83,회오리불꽃,ほのおのうず,Fire Spin,Danse Flamme,Feuerwirbel
+84,전기쇼크,でんきショック,Thunder Shock,Éclair,Donnerschock
+85,10만볼트,１０まんボルト,Thunderbolt,Tonnerre,Donnerblitz
+86,전기자석파,でんじは,Thunder Wave,Cage-Éclair,Donnerwelle
+87,번개,かみなり,Thunder,Fatal-Foudre,Donner
+88,돌떨구기,いわおとし,Rock Throw,Jet-Pierres,Steinwurf
+89,지진,じしん,Earthquake,Séisme,Erdbeben
+90,땅가르기,じわれ,Fissure,Abîme,Geofissur
+91,구멍파기,あなをほる,Dig,Tunnel,Schaufler
+92,맹독,どくどく,Toxic,Toxik,Toxin
+93,염동력,ねんりき,Confusion,Choc Mental,Konfusion
+94,사이코키네시스,サイコキネシス,Psychic,Psyko,Psychokinese
+95,최면술,さいみんじゅつ,Hypnosis,Hypnose,Hypnose
+96,요가포즈,ヨガのポーズ,Meditate,Yoga,Meditation
+97,고속이동,こうそくいどう,Agility,Hâte,Agilität
+98,전광석화,でんこうせっか,Quick Attack,Vive-Attaque,Ruckzuckhieb
+99,분노,いかり,Rage,Frénésie,Raserei
+100,순간이동,テレポート,Teleport,Téléport,Teleport
+101,나이트헤드,ナイトヘッド,Night Shade,Ombre Nocturne,Nachtnebel
+102,흉내내기,ものまね,Mimic,Copie,Mimikry
+103,싫은소리,いやなおと,Screech,Grincement,Kreideschrei
+104,그림자분신,かげぶんしん,Double Team,Reflet,Doppelteam
+105,HP회복,じこさいせい,Recover,Soin,Genesung
+106,단단해지기,かたくなる,Harden,Armure,Härtner
+107,작아지기,ちいさくなる,Minimize,Lilliput,Komprimator
+108,연막,えんまく,Smokescreen,Brouillard,Rauchwolke
+109,이상한빛,あやしいひかり,Confuse Ray,Onde Folie,Konfustrahl
+110,껍질에숨기,からにこもる,Withdraw,Repli,Panzerschutz
+111,웅크리기,まるくなる,Defense Curl,Boul’Armure,Einigler
+112,배리어,バリアー,Barrier,Bouclier,Barriere
+113,빛의장막,ひかりのかべ,Light Screen,Mur Lumière,Lichtschild
+114,흑안개,くろいきり,Haze,Buée Noire,Dunkelnebel
+115,리플렉터,リフレクター,Reflect,Protection,Reflektor
+116,기충전,きあいだめ,Focus Energy,Puissance,Energiefokus
+117,참기,がまん,Bide,Patience,Geduld
+118,손가락흔들기,ゆびをふる,Metronome,Métronome,Metronom
+119,따라하기,オウムがえし,Mirror Move,Mimique,Spiegeltrick
+120,자폭,じばく,Self-Destruct,Destruction,Finale
+121,알폭탄,タマゴばくだん,Egg Bomb,Bomb’Œuf,Eierbombe
+122,핥기,したでなめる,Lick,Léchouille,Schlecker
+123,스모그,スモッグ,Smog,Purédpois,Smog
+124,오물공격,ヘドロこうげき,Sludge,Détritus,Schlammbad
+125,뼈다귀치기,ホネこんぼう,Bone Club,Massd’Os,Knochenkeule
+126,불대문자,だいもんじ,Fire Blast,Déflagration,Feuersturm
+127,폭포오르기,たきのぼり,Waterfall,Cascade,Kaskade
+128,껍질끼우기,からではさむ,Clamp,Claquoir,Schnapper
+129,스피드스타,スピードスター,Swift,Météores,Sternschauer
+130,로케트박치기,ロケットずつき,Skull Bash,Coud’Krâne,Schädelwumme
+131,가시대포,とげキャノン,Spike Cannon,Picanon,Dornkanone
+132,휘감기,からみつく,Constrict,Constriction,Umklammerung
+133,망각술,ドわすれ,Amnesia,Amnésie,Amnesie
+134,숟가락휘기,スプーンまげ,Kinesis,Télékinésie,Psykraft
+135,알낳기,タマゴうみ,Soft-Boiled,E-Coque,Weichei
+136,무릎차기,とびひざげり,High Jump Kick,Pied Voltige,Turmkick
+137,뱀눈초리,へびにらみ,Glare,Regard Médusant,Giftblick
+138,꿈먹기,ゆめくい,Dream Eater,Dévorêve,Traumfresser
+139,독가스,どくガス,Poison Gas,Gaz Toxik,Giftwolke
+140,구슬던지기,たまなげ,Barrage,Pilonnage,Stakkato
+141,흡혈,きゅうけつ,Leech Life,Vampirisme,Blutsauger
+142,악마의키스,あくまのキッス,Lovely Kiss,Grobisou,Todeskuss
+143,불새,ゴッドバード,Sky Attack,Piqué,Himmelsfeger
+144,변신,へんしん,Transform,Morphing,Wandler
+145,거품,あわ,Bubble,Écume,Blubber
+146,잼잼펀치,ピヨピヨパンチ,Dizzy Punch,Uppercut,Irrschlag
+147,버섯포자,キノコのほうし,Spore,Spore,Pilzspore
+148,플래시,フラッシュ,Flash,Flash,Blitz
+149,사이코웨이브,サイコウェーブ,Psywave,Vague Psy,Psywelle
+150,튀어오르기,はねる,Splash,Trempette,Platscher
+151,녹기,とける,Acid Armor,Acidarmure,Säurepanzer
+152,찝게햄머,クラブハンマー,Crabhammer,Pince-Masse,Krabbhammer
+153,대폭발,だいばくはつ,Explosion,Explosion,Explosion
+154,마구할퀴기,みだれひっかき,Fury Swipes,Combo-Griffe,Kratzfurie
+155,뼈다귀부메랑,ホネブーメラン,Bonemerang,Osmerang,Knochmerang
+156,잠자기,ねむる,Rest,Repos,Erholung
+157,스톤샤워,いわなだれ,Rock Slide,Éboulement,Steinhagel
+158,필살앞니,ひっさつまえば,Hyper Fang,Croc de Mort,Hyperzahn
+159,각지기,かくばる,Sharpen,Affûtage,Schärfer
+160,텍스처,テクスチャー,Conversion,Conversion,Umwandlung
+161,트라이어택,トライアタック,Tri Attack,Triplattaque,Triplette
+162,분노의앞니,いかりのまえば,Super Fang,Croc Fatal,Superzahn
+163,베어가르기,きりさく,Slash,Tranche,Schlitzer
+164,대타출동,みがわり,Substitute,Clonage,Delegator
+165,발버둥,わるあがき,Struggle,Lutte,Verzweifler
+166,스케치,スケッチ,Sketch,Gribouille,Nachahmer
+167,트리플킥,トリプルキック,Triple Kick,Triple Pied,Dreifachkick
+168,도둑질,どろぼう,Thief,Larcin,Raub
+169,거미집,クモのす,Spider Web,Toile,Spinnennetz
+170,마음의눈,こころのめ,Mind Reader,Lire-Esprit,Willensleser
+171,악몽,あくむ,Nightmare,Cauchemar,Nachtmahr
+172,화염자동차,かえんぐるま,Flame Wheel,Roue de Feu,Flammenrad
+173,코골기,いびき,Snore,Ronflement,Schnarcher
+174,저주,のろい,Curse,Malédiction,Fluch
+175,바둥바둥,じたばた,Flail,Fléau,Dreschflegel
+176,텍스처2,テクスチャー２,Conversion 2,Conversion 2,Umwandlung2
+177,에어로블라스트,エアロブラスト,Aeroblast,Aéroblast,Luftstoß
+178,목화포자,わたほうし,Cotton Spore,Spore Coton,Baumwollsaat
+179,기사회생,きしかいせい,Reversal,Contre,Gegenschlag
+180,원한,うらみ,Spite,Dépit,Groll
+181,눈싸라기,こなゆき,Powder Snow,Poudreuse,Pulverschnee
+182,방어,まもる,Protect,Abri,Schutzschild
+183,마하펀치,マッハパンチ,Mach Punch,Mach Punch,Tempohieb
+184,겁나는얼굴,こわいかお,Scary Face,Grimace,Grimasse
+185,속여때리기,だましうち,Feint Attack,Feinte,Finte
+186,천사의키스,てんしのキッス,Sweet Kiss,Doux Baiser,Bitterkuss
+187,배북,はらだいこ,Belly Drum,Cognobidon,Bauchtrommel
+188,오물폭탄,ヘドロばくだん,Sludge Bomb,Bomb-Beurk,Matschbombe
+189,진흙뿌리기,どろかけ,Mud-Slap,Coud’Boue,Lehmschelle
+190,대포무노포,オクタンほう,Octazooka,Octazooka,Octazooka
+191,압정뿌리기,まきびし,Spikes,Picots,Stachler
+192,전자포,でんじほう,Zap Cannon,Élecanon,Blitzkanone
+193,꿰뚫어보기,みやぶる,Foresight,Clairvoyance,Gesichte
+194,길동무,みちづれ,Destiny Bond,Prélèvem. Destin,Abgangsbund
+195,멸망의노래,ほろびのうた,Perish Song,Requiem,Abgesang
+196,얼다바람,こごえるかぜ,Icy Wind,Vent Glace,Eissturm
+197,판별,みきり,Detect,Détection,Scanner
+198,본러쉬,ボーンラッシュ,Bone Rush,Charge-Os,Knochenhatz
+199,록온,ロックオン,Lock-On,Verrouillage,Zielschuss
+200,역린,げきりん,Outrage,Colère,Wutanfall
+201,모래바람,すなあらし,Sandstorm,Tempête de Sable,Sandsturm
+202,기가드레인,ギガドレイン,Giga Drain,Giga-Sangsue,Gigasauger
+203,버티기,こらえる,Endure,Ténacité,Ausdauer
+204,애교부리기,あまえる,Charm,Charme,Charme
+205,구르기,ころがる,Rollout,Roulade,Walzer
+206,칼등치기,みねうち,False Swipe,Faux-Chage,Trugschlag
+207,뽐내기,いばる,Swagger,Vantardise,Angeberei
+208,우유마시기,ミルクのみ,Milk Drink,Lait à Boire,Milchgetränk
+209,스파크,スパーク,Spark,Étincelle,Funkensprung
+210,연속자르기,れんぞくぎり,Fury Cutter,Taillade,Zornklinge
+211,강철날개,はがねのつばさ,Steel Wing,Aile d’Acier,Stahlflügel
+212,검은눈빛,くろいまなざし,Mean Look,Regard Noir,Horrorblick
+213,헤롱헤롱,メロメロ,Attract,Attraction,Anziehung
+214,잠꼬대,ねごと,Sleep Talk,Blabla Dodo,Schlafrede
+215,치료방울,いやしのすず,Heal Bell,Glas de Soin,Vitalglocke
+216,은혜갚기,おんがえし,Return,Retour,Rückkehr
+217,프레젠트,プレゼント,Present,Cadeau,Geschenk
+218,화풀이,やつあたり,Frustration,Frustration,Frustration
+219,신비의부적,しんぴのまもり,Safeguard,Rune Protect,Bodyguard
+220,아픔나누기,いたみわけ,Pain Split,Balance,Leidteiler
+221,성스러운불꽃,せいなるほのお,Sacred Fire,Feu Sacré,Läuterfeuer
+222,매그니튜드,マグニチュード,Magnitude,Ampleur,Intensität
+223,폭발펀치,ばくれつパンチ,Dynamic Punch,Dynamopoing,Wuchtschlag
+224,메가폰,メガホーン,Megahorn,Mégacorne,Vielender
+225,용의숨결,りゅうのいぶき,Dragon Breath,Dracosouffle,Feuerodem
+226,바톤터치,バトンタッチ,Baton Pass,Relais,Staffette
+227,앵콜,アンコール,Encore,Encore,Zugabe
+228,따라가때리기,おいうち,Pursuit,Poursuite,Verfolgung
+229,고속스핀,こうそくスピン,Rapid Spin,Tour Rapide,Turbodreher
+230,달콤한향기,あまいかおり,Sweet Scent,Doux Parfum,Lockduft
+231,아이언테일,アイアンテール,Iron Tail,Queue de Fer,Eisenschweif
+232,메탈크로우,メタルクロー,Metal Claw,Griffe Acier,Metallklaue
+233,받아던지기,あてみなげ,Vital Throw,Corps Perdu,Überwurf
+234,아침햇살,あさのひざし,Morning Sun,Aurore,Morgengrauen
+235,광합성,こうごうせい,Synthesis,Synthèse,Synthese
+236,달의불빛,つきのひかり,Moonlight,Rayon Lune,Mondschein
+237,잠재파워,めざめるパワー,Hidden Power,Puissance Cachée,Kraftreserve
+238,크로스촙,クロスチョップ,Cross Chop,Coup-Croix,Kreuzhieb
+239,회오리,たつまき,Twister,Ouragan,Windhose
+240,비바라기,あまごい,Rain Dance,Danse Pluie,Regentanz
+241,쾌청,にほんばれ,Sunny Day,Zénith,Sonnentag
+242,깨물어부수기,かみくだく,Crunch,Mâchouille,Knirscher
+243,미러코트,ミラーコート,Mirror Coat,Voile Miroir,Spiegelcape
+244,자기암시,じこあんじ,Psych Up,Boost,Psycho-Plus
+245,신속,しんそく,Extreme Speed,Vitesse Extrême,Turbotempo
+246,원시의힘,げんしのちから,Ancient Power,Pouvoir Antique,Antik-Kraft
+247,섀도볼,シャドーボール,Shadow Ball,Ball’Ombre,Spukball
+248,미래예지,みらいよち,Future Sight,Prescience,Seher
+249,바위깨기,いわくだき,Rock Smash,Éclate-Roc,Zertrümmerer
+250,바다회오리,うずしお,Whirlpool,Siphon,Whirlpool
+251,집단구타,ふくろだたき,Beat Up,Baston,Prügler
+252,속이다,ねこだまし,Fake Out,Bluff,Mogelhieb
+253,소란피기,さわぐ,Uproar,Brouhaha,Aufruhr
+254,비축하기,たくわえる,Stockpile,Stockage,Horter
+255,토해내기,はきだす,Spit Up,Relâche,Entfessler
+256,꿀꺽,のみこむ,Swallow,Avale,Verzehrer
+257,열풍,ねっぷう,Heat Wave,Canicule,Hitzewelle
+258,싸라기눈,あられ,Hail,Grêle,Hagelsturm
+259,트집,いちゃもん,Torment,Tourmente,Folterknecht
+260,부추기기,おだてる,Flatter,Flatterie,Schmeichler
+261,도깨비불,おにび,Will-O-Wisp,Feu Follet,Irrlicht
+262,추억의선물,おきみやげ,Memento,Souvenir,Memento-Mori
+263,객기,からげんき,Facade,Façade,Fassade
+264,힘껏펀치,きあいパンチ,Focus Punch,Mitra-Poing,Power-Punch
+265,정신차리기,きつけ,Smelling Salts,Stimulant,Riechsalz
+266,날따름,このゆびとまれ,Follow Me,Par Ici,Spotlight
+267,자연의힘,しぜんのちから,Nature Power,Force-Nature,Natur-Kraft
+268,충전,じゅうでん,Charge,Chargeur,Ladevorgang
+269,도발,ちょうはつ,Taunt,Provoc,Verhöhner
+270,도우미,てだすけ,Helping Hand,Coup d’Main,Rechte Hand
+271,트릭,トリック,Trick,Tourmagik,Trickbetrug
+272,역할,なりきり,Role Play,Imitation,Rollentausch
+273,희망사항,ねがいごと,Wish,Vœu,Wunschtraum
+274,조수,ねこのて,Assist,Assistance,Zuschuss
+275,뿌리박기,ねをはる,Ingrain,Racines,Verwurzler
+276,엄청난힘,ばかぢから,Superpower,Surpuissance,Kraftkoloss
+277,매직코트,マジックコート,Magic Coat,Reflet Magik,Magiemantel
+278,리사이클,リサイクル,Recycle,Recyclage,Aufbereitung
+279,리벤지,リベンジ,Revenge,Vendetta,Vergeltung
+280,깨트리다,かわらわり,Brick Break,Casse-Brique,Durchbruch
+281,하품,あくび,Yawn,Bâillement,Gähner
+282,탁쳐서떨구기,はたきおとす,Knock Off,Sabotage,Abschlag
+283,죽기살기,がむしゃら,Endeavor,Effort,Notsituation
+284,분화,ふんか,Eruption,Éruption,Eruption
+285,스킬스웹,スキルスワップ,Skill Swap,Échange,Wertewechsel
+286,봉인,ふういん,Imprison,Possessif,Begrenzer
+287,리프레쉬,リフレッシュ,Refresh,Régénération,Heilung
+288,원념,おんねん,Grudge,Rancune,Nachspiel
+289,가로챔,よこどり,Snatch,Saisie,Übernahme
+290,비밀의힘,ひみつのちから,Secret Power,Force Cachée,Geheimpower
+291,다이빙,ダイビング,Dive,Plongée,Taucher
+292,손바닥치기,つっぱり,Arm Thrust,Cogne,Armstoß
+293,보호색,ほごしょく,Camouflage,Camouflage,Tarnung
+294,반딧불,ほたるび,Tail Glow,Lumiqueue,Schweifglanz
+295,라스트버지,ラスターパージ,Luster Purge,Lumi-Éclat,Scheinwerfer
+296,미스트볼,ミストボール,Mist Ball,Ball’Brume,Nebelball
+297,깃털댄스,フェザーダンス,Feather Dance,Danse-Plume,Daunenreigen
+298,흔들흔들댄스,フラフラダンス,Teeter Dance,Danse-Folle,Taumeltanz
+299,브레이즈킥,ブレイズキック,Blaze Kick,Pied Brûleur,Feuerfeger
+300,흙놀이,どろあそび,Mud Sport,Lance-Boue,Lehmsuhler
+301,아이스볼,アイスボール,Ice Ball,Ball’Glace,Frostbeule
+302,바늘팔,ニードルアーム,Needle Arm,Poing Dard,Nietenranke
+303,태만함,なまける,Slack Off,Paresse,Tagedieb
+304,하이퍼보이스,ハイパーボイス,Hyper Voice,Mégaphone,Schallwelle
+305,독엄니,どくどくのキバ,Poison Fang,Crochet Venin,Giftzahn
+306,브레이크크루,ブレイククロー,Crush Claw,Éclate Griffe,Zermalmklaue
+307,블러스트번,ブラストバーン,Blast Burn,Rafale Feu,Lohekanonade
+308,하이드로캐논,ハイドロカノン,Hydro Cannon,Hydroblast,Aquahaubitze
+309,코멧펀치,コメットパンチ,Meteor Mash,Poing Météor,Sternenhieb
+310,놀래키기,おどろかす,Astonish,Étonnement,Erstauner
+311,웨더볼,ウェザーボール,Weather Ball,Ball’Météo,Meteorologe
+312,아로마테라피,アロマセラピー,Aromatherapy,Aromathérapie,Aromakur
+313,거짓울음,うそなき,Fake Tears,Croco Larme,Trugträne
+314,에어컷터,エアカッター,Air Cutter,Tranch’Air,Windschnitt
+315,오버히트,オーバーヒート,Overheat,Surchauffe,Hitzekoller
+316,냄새구별,かぎわける,Odor Sleuth,Flair,Schnüffler
+317,암석봉인,がんせきふうじ,Rock Tomb,Tomberoche,Felsgrab
+318,은빛바람,ぎんいろのかぜ,Silver Wind,Vent Argenté,Silberhauch
+319,금속음,きんぞくおん,Metal Sound,Strido-Son,Metallsound
+320,풀피리,くさぶえ,Grass Whistle,Siffl’Herbe,Grasflöte
+321,간지르기,くすぐる,Tickle,Chatouille,Spaßkanone
+322,코스믹파워,コスモパワー,Cosmic Power,Force Cosmik,Kosmik-Kraft
+323,해수스파우팅,しおふき,Water Spout,Giclédo,Fontränen
+324,시그널빔,シグナルビーム,Signal Beam,Rayon Signal,Ampelleuchte
+325,섀도펀치,シャドーパンチ,Shadow Punch,Poing Ombre,Finsterfaust
+326,신통력,じんつうりき,Extrasensory,Extrasenseur,Sondersensor
+327,스카이업퍼,スカイアッパー,Sky Uppercut,Stratopercut,Himmelhieb
+328,모래지옥,すなじごく,Sand Tomb,Tourbi-Sable,Sandgrab
+329,절대영도,ぜったいれいど,Sheer Cold,Glaciation,Eiseskälte
+330,탁류,だくりゅう,Muddy Water,Ocroupi,Lehmbrühe
+331,기관총,タネマシンガン,Bullet Seed,Balle Graine,Kugelsaat
+332,제비반환,つばめがえし,Aerial Ace,Aéropique,Aero-Ass
+333,고드름침,つららばり,Icicle Spear,Stalagtite,Eisspeer
+334,철벽,てっぺき,Iron Defense,Mur de Fer,Eisenabwehr
+335,블록,とおせんぼう,Block,Barrage,Rückentzug
+336,멀리짖음,とおぼえ,Howl,Grondement,Jauler
+337,드래곤크루,ドラゴンクロー,Dragon Claw,Dracogriffe,Drachenklaue
+338,하드플랜트,ハードプラント,Frenzy Plant,Végé-Attak,Fauna-Statue
+339,벌크업,ビルドアップ,Bulk Up,Gonflette,Protzer
+340,뛰어오르다,とびはねる,Bounce,Rebond,Sprungfeder
+341,머드숏,マッドショット,Mud Shot,Tir de Boue,Lehmschuss
+342,포이즌테일,ポイズンテール,Poison Tail,Queue-Poison,Giftschweif
+343,탐내다,ほしがる,Covet,Implore,Bezirzer
+344,볼트태클,ボルテッカー,Volt Tackle,Électacle,Volttackle
+345,메지컬리프,マジカルリーフ,Magical Leaf,Feuille Magik,Zauberblatt
+346,물놀이,みずあそび,Water Sport,Tourniquet,Nassmacher
+347,명상,めいそう,Calm Mind,Plénitude,Gedankengut
+348,리프블레이드,リーフブレード,Leaf Blade,Lame-Feuille,Laubklinge
+349,용의춤,りゅうのまい,Dragon Dance,Danse Draco,Drachentanz
+350,락블레스트,ロックブラスト,Rock Blast,Boule Roc,Felswurf
+351,전격파,でんげきは,Shock Wave,Onde de Choc,Schockwelle
+352,물의파동,みずのはどう,Water Pulse,Vibraqua,Aquawelle
+353,파멸의소원,はめつのねがい,Doom Desire,Carnareket,Kismetwunsch
+354,사이코부스트,サイコブースト,Psycho Boost,Psycho Boost,Psyschub
+355,날개쉬기,はねやすめ,Roost,Atterrissage,Ruheort
+356,중력,じゅうりょく,Gravity,Gravité,Erdanziehung
+357,미라클아이,ミラクルアイ,Miracle Eye,Œil Miracle,Wunderauge
+358,잠깨움뺨치기,めざましビンタ,Wake-Up Slap,Réveil Forcé,Weckruf
+359,암해머,アームハンマー,Hammer Arm,Marto-Poing,Hammerarm
+360,자이로볼,ジャイロボール,Gyro Ball,Gyroballe,Gyroball
+361,치유소원,いやしのねがい,Healing Wish,Vœu Soin,Heilopfer
+362,소금물,しおみず,Brine,Saumure,Lake
+363,자연의은혜,しぜんのめぐみ,Natural Gift,Don Naturel,Beerenkräfte
+364,페인트,フェイント,Feint,Ruse,Offenlegung
+365,쪼아대기,ついばむ,Pluck,Picore,Pflücker
+366,순풍,おいかぜ,Tailwind,Vent Arrière,Rückenwind
+367,경혈찌르기,つぼをつく,Acupressure,Acupression,Akupressur
+368,메탈버스트,メタルバースト,Metal Burst,Fulmifer,Metallstoß
+369,유턴,とんぼがえり,U-turn,Demi-Tour,Kehrtwende
+370,인파이트,インファイト,Close Combat,Close Combat,Nahkampf
+371,보복,しっぺがえし,Payback,Représailles,Gegenstoß
+372,승부굳히기,ダメおし,Assurance,Assurance,Gewissheit
+373,금제,さしおさえ,Embargo,Embargo,Itemsperre
+374,내던지기,なげつける,Fling,Dégommage,Schleuder
+375,사이코시프트,サイコシフト,Psycho Shift,Échange Psy,Psybann
+376,마지막수단,きりふだ,Trump Card,Atout,Trumpfkarte
+377,회복봉인,かいふくふうじ,Heal Block,Anti-Soin,Heilblockade
+378,쥐어짜기,しぼりとる,Wring Out,Essorage,Auswringen
+379,파워트릭,パワートリック,Power Trick,Astuce Force,Krafttrick
+380,위액,いえき,Gastro Acid,Suc Digestif,Magensäfte
+381,주술,おまじない,Lucky Chant,Air Veinard,Beschwörung
+382,선취,さきどり,Me First,Moi d’Abord,Egotrip
+383,흉내쟁이,まねっこ,Copycat,Photocopie,Imitator
+384,파워스웹,パワースワップ,Power Swap,Permuforce,Krafttausch
+385,가드스웹,ガードスワップ,Guard Swap,Permugarde,Schutztausch
+386,혼내기,おしおき,Punishment,Punition,Strafattacke
+387,뒀다쓰기,とっておき,Last Resort,Dernier Recours,Zuflucht
+388,고민씨,なやみのタネ,Worry Seed,Soucigraine,Sorgensamen
+389,기습,ふいうち,Sucker Punch,Coup Bas,Tiefschlag
+390,독압정,どくびし,Toxic Spikes,Pics Toxik,Giftspitzen
+391,하트스웹,ハートスワップ,Heart Swap,Permucœur,Statustausch
+392,아쿠아링,アクアリング,Aqua Ring,Anneau Hydro,Wasserring
+393,전자부유,でんじふゆう,Magnet Rise,Vol Magnétik,Magnetflug
+394,플레어드라이브,フレアドライブ,Flare Blitz,Boutefeu,Flammenblitz
+395,발경,はっけい,Force Palm,Forte-Paume,Kraftwelle
+396,파동탄,はどうだん,Aura Sphere,Aurasphère,Aurasphäre
+397,록커트,ロックカット,Rock Polish,Poliroche,Steinpolitur
+398,독찌르기,どくづき,Poison Jab,Direct Toxik,Gifthieb
+399,악의파동,あくのはどう,Dark Pulse,Vibrobscur,Finsteraura
+400,깜짝베기,つじぎり,Night Slash,Tranche-Nuit,Nachthieb
+401,아쿠아테일,アクアテール,Aqua Tail,Hydroqueue,Nassschweif
+402,씨폭탄,タネばくだん,Seed Bomb,Canon Graine,Samenbomben
+403,에어슬래시,エアスラッシュ,Air Slash,Lame d’Air,Luftschnitt
+404,시저크로스,シザークロス,X-Scissor,Plaie-Croix,Kreuzschere
+405,벌레의야단법석,むしのさざめき,Bug Buzz,Bourdon,Käfergebrumm
+406,용의파동,りゅうのはどう,Dragon Pulse,Dracochoc,Drachenpuls
+407,드래곤다이브,ドラゴンダイブ,Dragon Rush,Dracocharge,Drachenstoß
+408,파워젬,パワージェム,Power Gem,Rayon Gemme,Juwelenkraft
+409,드레인펀치,ドレインパンチ,Drain Punch,Vampipoing,Ableithieb
+410,진공파,しんくうは,Vacuum Wave,Onde Vide,Vakuumwelle
+411,기합구슬,きあいだま,Focus Blast,Exploforce,Fokusstoß
+412,에너지볼,エナジーボール,Energy Ball,Éco-Sphère,Energieball
+413,브레이브버드,ブレイブバード,Brave Bird,Rapace,Sturzflug
+414,대지의힘,だいちのちから,Earth Power,Telluriforce,Erdkräfte
+415,바꿔치기,すりかえ,Switcheroo,Passe-Passe,Wechseldich
+416,기가임팩트,ギガインパクト,Giga Impact,Giga Impact,Gigastoß
+417,나쁜음모,わるだくみ,Nasty Plot,Machination,Ränkeschmied
+418,불릿펀치,バレットパンチ,Bullet Punch,Pisto-Poing,Patronenhieb
+419,눈사태,ゆきなだれ,Avalanche,Avalanche,Lawine
+420,얼음뭉치,こおりのつぶて,Ice Shard,Éclats Glace,Eissplitter
+421,섀도크루,シャドークロー,Shadow Claw,Griffe Ombre,Dunkelklaue
+422,번개엄니,かみなりのキバ,Thunder Fang,Crocs Éclair,Donnerzahn
+423,얼음엄니,こおりのキバ,Ice Fang,Crocs Givre,Eiszahn
+424,불꽃엄니,ほのおのキバ,Fire Fang,Crocs Feu,Feuerzahn
+425,야습,かげうち,Shadow Sneak,Ombre Portée,Schattenstoß
+426,진흙폭탄,どろばくだん,Mud Bomb,Boue-Bombe,Schlammbombe
+427,사이코커터,サイコカッター,Psycho Cut,Coupe Psycho,Psychoklinge
+428,사념의박치기,しねんのずつき,Zen Headbutt,Psykoud’Boul,Zen-Kopfstoß
+429,미러숏,ミラーショット,Mirror Shot,Miroi-Tir,Spiegelsalve
+430,러스터캐논,ラスターカノン,Flash Cannon,Luminocanon,Lichtkanone
+431,락클라임,ロッククライム,Rock Climb,Escalade,Kraxler
+432,안개제거,きりばらい,Defog,Anti-Brume,Auflockern
+433,트릭룸,トリックルーム,Trick Room,Distorsion,Bizarroraum
+434,용성군,りゅうせいぐん,Draco Meteor,Draco Météor,Draco Meteor
+435,방전,ほうでん,Discharge,Coup d’Jus,Ladungsstoß
+436,분연,ふんえん,Lava Plume,Ébullilave,Flammensturm
+437,리프스톰,リーフストーム,Leaf Storm,Tempête Verte,Blättersturm
+438,파워휩,パワーウィップ,Power Whip,Mégafouet,Blattgeißel
+439,암석포,がんせきほう,Rock Wrecker,Roc-Boulet,Felswerfer
+440,크로스포이즌,クロスポイズン,Cross Poison,Poison-Croix,Giftstreich
+441,더스트슈트,ダストシュート,Gunk Shot,Détricanon,Mülltreffer
+442,아이언헤드,アイアンヘッド,Iron Head,Tête de Fer,Eisenschädel
+443,마그넷봄,マグネットボム,Magnet Bomb,Bombaimant,Magnetbombe
+444,스톤에지,ストーンエッジ,Stone Edge,Lame de Roc,Steinkante
+445,유혹,ゆうわく,Captivate,Séduction,Liebreiz
+446,스텔스록,ステルスロック,Stealth Rock,Piège de Roc,Tarnsteine
+447,풀묶기,くさむすび,Grass Knot,Nœud Herbe,Strauchler
+448,수다,おしゃべり,Chatter,Babil,Geschwätz
+449,심판의뭉치,さばきのつぶて,Judgment,Jugement,Urteilskraft
+450,벌레먹음,むしくい,Bug Bite,Piqûre,Käferbiss
+451,차지빔,チャージビーム,Charge Beam,Rayon Chargé,Ladestrahl
+452,우드해머,ウッドハンマー,Wood Hammer,Martobois,Holzhammer
+453,아쿠아제트,アクアジェット,Aqua Jet,Aqua-Jet,Wasserdüse
+454,공격지령,こうげきしれい,Attack Order,Appel Attak,Schlagbefehl
+455,방어지령,ぼうぎょしれい,Defend Order,Appel Défense,Blockbefehl
+456,회복지령,かいふくしれい,Heal Order,Appel Soins,Heilbefehl
+457,양날박치기,もろはのずつき,Head Smash,Fracass’Tête,Kopfstoß
+458,더블어택,ダブルアタック,Double Hit,Coup Double,Doppelschlag
+459,시간의포효,ときのほうこう,Roar of Time,Hurle-Temps,Zeitenlärm
+460,공간절단,あくうせつだん,Spacial Rend,Spatio-Rift,Raumschlag
+461,초승달춤,みかづきのまい,Lunar Dance,Danse-Lune,Lunartanz
+462,묵사발,にぎりつぶす,Crush Grip,Presse,Quetschgriff
+463,마그마스톰,マグマストーム,Magma Storm,Vortex Magma,Lavasturm
+464,다크홀,ダークホール,Dark Void,Trou Noir,Schlummerort
+465,시드플레어,シードフレア,Seed Flare,Fulmigraine,Schocksamen
+466,괴상한바람,あやしいかぜ,Ominous Wind,Vent Mauvais,Unheilböen
+467,섀도다이브,シャドーダイブ,Shadow Force,Revenant,Schemenkraft
+468,손톱갈기,つめとぎ,Hone Claws,Aiguisage,Klauenwetzer
+469,와이드가드,ワイドガード,Wide Guard,Garde Large,Rundumschutz
+470,가드셰어,ガードシェア,Guard Split,Partage Garde,Schutzteiler
+471,파워셰어,パワーシェア,Power Split,Partage Force,Kraftteiler
+472,원더룸,ワンダールーム,Wonder Room,Zone Étrange,Wunderraum
+473,사이코쇼크,サイコショック,Psyshock,Choc Psy,Psychoschock
+474,베놈쇼크,ベノムショック,Venoshock,Choc Venin,Giftschock
+475,바디퍼지,ボディパージ,Autotomize,Allègement,Autotomie
+476,분노가루,いかりのこな,Rage Powder,Poudre Fureur,Wutpulver
+477,텔레키네시스,テレキネシス,Telekinesis,Lévikinésie,Telekinese
+478,매직룸,マジックルーム,Magic Room,Zone Magique,Magieraum
+479,떨어뜨리기,うちおとす,Smack Down,Anti-Air,Katapult
+480,업어후리기,やまあらし,Storm Throw,Yama Arashi,Bergsturm
+481,불꽃튀기기,はじけるほのお,Flame Burst,Rebondifeu,Funkenflug
+482,오물웨이브,ヘドロウェーブ,Sludge Wave,Cradovague,Schlammwoge
+483,나비춤,ちょうのまい,Quiver Dance,Papillodanse,Falterreigen
+484,헤비봄버,ヘビーボンバー,Heavy Slam,Tacle Lourd,Rammboss
+485,싱크로노이즈,シンクロノイズ,Synchronoise,Synchropeine,Synchrolärm
+486,일렉트릭볼,エレキボール,Electro Ball,Boule Élek,Elektroball
+487,물붓기,みずびたし,Soak,Détrempage,Überflutung
+488,니트로차지,ニトロチャージ,Flame Charge,Nitrocharge,Nitroladung
+489,똬리틀기,とぐろをまく,Coil,Enroulement,Einrollen
+490,로킥,ローキック,Low Sweep,Balayette,Fußtritt
+491,애시드봄,アシッドボム,Acid Spray,Bombe Acide,Säurespeier
+492,속임수,イカサマ,Foul Play,Tricherie,Schmarotzer
+493,심플빔,シンプルビーム,Simple Beam,Rayon Simple,Wankelstrahl
+494,동료만들기,なかまづくり,Entrainment,Ten-danse,Zwango
+495,당신먼저,おさきにどうぞ,After You,Après Vous,Galanterie
+496,돌림노래,りんしょう,Round,Chant Canon,Kanon
+497,에코보이스,エコーボイス,Echoed Voice,Écho,Widerhall
+498,야금야금,なしくずし,Chip Away,Attrition,Zermürben
+499,클리어스모그,クリアスモッグ,Clear Smog,Bain de Smog,Klärsmog
+500,어시스트파워,アシストパワー,Stored Power,Force Ajoutée,Kraftvorrat
+501,퍼스트가드,ファストガード,Quick Guard,Prévention,Rapidschutz
+502,사이드체인지,サイドチェンジ,Ally Switch,Interversion,Seitentausch
+503,열탕,ねっとう,Scald,Ébullition,Siedewasser
+504,껍질깨기,からをやぶる,Shell Smash,Exuviation,Hausbruch
+505,치유파동,いやしのはどう,Heal Pulse,Vibra Soin,Heilwoge
+506,병상첨병,たたりめ,Hex,Châtiment,Bürde
+507,프리폴,フリーフォール,Sky Drop,Chute Libre,Freier Fall
+508,기어체인지,ギアチェンジ,Shift Gear,Chgt Vitesse,Gangwechsel
+509,배대뒤치기,ともえなげ,Circle Throw,Projection,Überkopfwurf
+510,불태우기,やきつくす,Incinerate,Calcination,Einäschern
+511,순서미루기,さきおくり,Quash,À la Queue,Verzögerung
+512,애크러뱃,アクロバット,Acrobatics,Acrobatie,Akrobatik
+513,미러타입,ミラータイプ,Reflect Type,Copie Type,Typenspiegel
+514,원수갚기,かたきうち,Retaliate,Vengeance,Heimzahlung
+515,목숨걸기,いのちがけ,Final Gambit,Tout ou Rien,Wagemut
+516,기프트패스,ギフトパス,Bestow,Passe-Cadeau,Offerte
+517,연옥,れんごく,Inferno,Feu d’Enfer,Inferno
+518,물의맹세,みずのちかい,Water Pledge,Aire d’Eau,Wassersäulen
+519,불꽃의맹세,ほのおのちかい,Fire Pledge,Aire de Feu,Feuersäulen
+520,풀의맹세,くさのちかい,Grass Pledge,Aire d’Herbe,Pflanzsäulen
+521,볼트체인지,ボルトチェンジ,Volt Switch,Change Éclair,Voltwechsel
+522,벌레의저항,むしのていこう,Struggle Bug,Survinsecte,Käfertrutz
+523,땅고르기,じならし,Bulldoze,Piétisol,Dampfwalze
+524,얼음숨결,こおりのいぶき,Frost Breath,Souffle Glacé,Eisesodem
+525,드래곤테일,ドラゴンテール,Dragon Tail,Draco-Queue,Drachenrute
+526,분발,ふるいたてる,Work Up,Rengorgement,Kraftschub
+527,일렉트릭네트,エレキネット,Electroweb,Toile Élek,Elektronetz
+528,와일드볼트,ワイルドボルト,Wild Charge,Éclair Fou,Stromstoß
+529,드릴라이너,ドリルライナー,Drill Run,Tunnelier,Schlagbohrer
+530,더블촙,ダブルチョップ,Dual Chop,Double Baffe,Doppelhieb
+531,하트스탬프,ハートスタンプ,Heart Stamp,Crève-Cœur,Herzstempel
+532,우드호른,ウッドホーン,Horn Leech,Encornebois,Holzgeweih
+533,성스러운칼,せいなるつるぎ,Sacred Sword,Lame Sainte,Sanctoklinge
+534,셸블레이드,シェルブレード,Razor Shell,Coquilame,Kalkklinge
+535,히트스탬프,ヒートスタンプ,Heat Crash,Tacle Feu,Brandstempel
+536,그래스믹서,グラスミキサー,Leaf Tornado,Phytomixeur,Grasmixer
+537,하드롤러,ハードローラー,Steamroller,Bulldoboule,Quetschwalze
+538,코튼가드,コットンガード,Cotton Guard,Cotogarde,Watteschild
+539,나이트버스트,ナイトバースト,Night Daze,Explonuit,Nachtflut
+540,사이코브레이크,サイコブレイク,Psystrike,Frappe Psy,Psychostoß
+541,스위프뺨치기,スイープビンタ,Tail Slap,Plumo-Queue,Kehrschelle
+542,폭풍,ぼうふう,Hurricane,Vent Violent,Orkan
+543,아프로브레이크,アフロブレイク,Head Charge,Peignée,Steinschädel
+544,기어소서,ギアソーサー,Gear Grind,Lancécrou,Klikkdiskus
+545,화염탄,かえんだん,Searing Shot,Incendie,Flammenball
+546,테크노버스터,テクノバスター,Techno Blast,TechnoBuster,Techblaster
+547,옛노래,いにしえのうた,Relic Song,Chant Antique,Urgesang
+548,신비의칼,しんぴのつるぎ,Secret Sword,Lame Ointe,Mystoschwert
+549,얼다세계,こごえるせかい,Glaciate,Ère Glaciaire,Eiszeit
+550,뇌격,らいげき,Bolt Strike,Charge Foudre,Blitzschlag
+551,푸른불꽃,あおいほのお,Blue Flare,Flamme Bleue,Blauflammen
+552,불꽃춤,ほのおのまい,Fiery Dance,Danse du Feu,Feuerreigen
+553,프리즈볼트,フリーズボルト,Freeze Shock,Éclair Gelé,Frostvolt
+554,콜드플레어,コールドフレア,Ice Burn,Feu Glacé,Frosthauch
+555,바크아웃,バークアウト,Snarl,Aboiement,Standpauke
+556,고드름떨구기,つららおとし,Icicle Crash,Chute Glace,Eiszapfhagel
+557,V제너레이트,Ｖジェネレート,V-create,Coup Victoire,V-Generator
+558,크로스플레임,クロスフレイム,Fusion Flare,Flamme Croix,Kreuzflamme
+559,크로스썬더,クロスサンダー,Fusion Bolt,Éclair Croix,Kreuzdonner
+560,플라잉프레스,フライングプレス,Flying Press,Flying Press,Flying Press
+561,마룻바닥세워막기,たたみがえし,Mat Block,Tatamigaeshi,Tatami-Schild
+562,트림,ゲップ,Belch,Éructation,Rülpser
+563,일구기,たがやす,Rototiller,Fertilisation,Pflüger
+564,끈적끈적네트,ねばねばネット,Sticky Web,Toile Gluante,Klebenetz
+565,마지막일침,とどめばり,Fell Stinger,Dard Mortel,Stachelfinale
+566,고스트다이브,ゴーストダイブ,Phantom Force,Hantise,Phantomkraft
+567,핼러윈,ハロウィン,Trick-or-Treat,Halloween,Halloween
+568,부르짖기,おたけび,Noble Roar,Râle Mâle,Kampfgebrüll
+569,플라스마샤워,プラズマシャワー,Ion Deluge,DélugePlasmique,Plasmaschauer
+570,파라볼라차지,パラボラチャージ,Parabolic Charge,Parabocharge,Parabolladung
+571,숲의저주,もりののろい,Forest’s Curse,Maléfice Sylvain,Waldesfluch
+572,꽃보라,はなふぶき,Petal Blizzard,Tempête Florale,Blütenwirbel
+573,프리즈드라이,フリーズドライ,Freeze-Dry,Lyophilisation,Gefriertrockner
+574,차밍보이스,チャームボイス,Disarming Voice,Voix Enjôleuse,Säuselstimme
+575,막말내뱉기,すてゼリフ,Parting Shot,Dernier Mot,Abgangstirade
+576,뒤집어엎기,ひっくりかえす,Topsy-Turvy,Renversement,Invertigo
+577,드레인키스,ドレインキッス,Draining Kiss,Vampibaiser,Diebeskuss
+578,트릭가드,トリックガード,Crafty Shield,Vigilance,Trickschutz
+579,플라워가드,フラワーガード,Flower Shield,Garde Florale,Floraschutz
+580,그래스필드,グラスフィールド,Grassy Terrain,Champ Herbu,Grasfeld
+581,미스트필드,ミストフィールド,Misty Terrain,Champ Brumeux,Nebelfeld
+582,송전,そうでん,Electrify,Électrisation,Elektrifizierung
+583,치근거리기,じゃれつく,Play Rough,Câlinerie,Knuddler
+584,요정의바람,ようせいのかぜ,Fairy Wind,Vent Féérique,Feenbrise
+585,문포스,ムーンフォース,Moonblast,Pouvoir Lunaire,Mondgewalt
+586,폭음파,ばくおんぱ,Boomburst,Bang Sonique,Überschallknall
+587,페어리록,フェアリーロック,Fairy Lock,Verrou Enchanté,Feenschloss
+588,킹실드,キングシールド,King’s Shield,Bouclier Royal,Königsschild
+589,친해지기,なかよくする,Play Nice,Camaraderie,Kameradschaft
+590,비밀이야기,ないしょばなし,Confide,Confidence,Vertrauenssache
+591,다이아스톰,ダイヤストーム,Diamond Storm,Orage Adamantin,Diamantsturm
+592,스팀버스트,スチームバースト,Steam Eruption,Jet de Vapeur,Dampfschwall
+593,다른차원홀,いじげんホール,Hyperspace Hole,TrouDimensionnel,Dimensionsloch
+594,물수리검,みずしゅりけん,Water Shuriken,Sheauriken,Wasser-Shuriken
+595,매지컬플레임,マジカルフレイム,Mystical Fire,Feu Ensorcelé,Magieflamme
+596,니들가드,ニードルガード,Spiky Shield,Pico-Défense,Schutzstacheln
+597,아로마미스트,アロマミスト,Aromatic Mist,Brume Capiteuse,Duftwolke
+598,괴전파,かいでんぱ,Eerie Impulse,Ondes Étranges,Mystowellen
+599,베놈트랩,ベノムトラップ,Venom Drench,Piège de Venin,Giftfalle
+600,분진,ふんじん,Powder,Nuée de Poudre,Pulverschleuder
+601,지오컨트롤,ジオコントロール,Geomancy,Géo-Contrôle,Geokontrolle
+602,자기장조작,じばそうさ,Magnetic Flux,Magné-Contrôle,Magnetregler
+603,해피타임,ハッピータイム,Happy Hour,Étrennes,Goldene Zeiten
+604,일렉트릭필드,エレキフィールド,Electric Terrain,Champ Électrifié,Elektrofeld
+605,매지컬샤인,マジカルシャイン,Dazzling Gleam,Éclat Magique,Zauberschein
+606,축하,おいわい,Celebrate,Célébration,Ehrentag
+607,손에손잡기,てをつなぐ,Hold Hands,Mains Jointes,Händchenhalten
+608,초롱초롱눈동자,つぶらなひとみ,Baby-Doll Eyes,Regard Touchant,Kulleraugen
+609,볼부비부비,ほっぺすりすり,Nuzzle,Frotte-Frimousse,Wangenrubbler
+610,적당히손봐주기,てかげん,Hold Back,Retenue,Zurückhaltung
+611,엉겨붙기,まとわりつく,Infestation,Harcèlement,Plage
+612,그로우펀치,グロウパンチ,Power-Up Punch,Poing Boost,Steigerungshieb
+613,데스윙,デスウイング,Oblivion Wing,Mort-Ailes,Unheilsschwingen
+614,사우전드애로,サウザンアロー,Thousand Arrows,Myria-Flèches,Tausend Pfeile
+615,사우전드웨이브,サウザンウェーブ,Thousand Waves,Myria-Vagues,Tausend Wellen
+616,그라운드포스,グランドフォース,Land’s Wrath,Force Chtonienne,Bodengewalt
+617,파멸의빛,はめつのひかり,Light of Ruin,Lumière du Néant,Lux Calamitatis
+618,근원의파동,こんげんのはどう,Origin Pulse,Onde Originelle,Ursprungswoge
+619,단애의칼,だんがいのつるぎ,Precipice Blades,Lame Pangéenne,Abgrundsklinge
+620,화룡점정,ガリョウテンセイ,Dragon Ascent,Draco Ascension,Zenitstürmer
+621,다른차원러시,いじげんラッシュ,Hyperspace Fury,Furie Dimension,Dimensionswahn
+???,10만마력,１０まんばりき,High Horsepower,Cavalerie Lourde,Pferdestärke
+???,DD래리어트,ＤＤラリアット,Darkest Lariat,Dark Lariat,Dark Lariat
+???,그림자꿰메기,かげぬい,Spirit Shackle,Tisse Ombre,Schattenfessel
+???,기어오르기,つけあがる,Power Trip,Arrogance,Überheblichkeit
+???,꽃가루경단,かふんだんご,Pollen Puff,Boule Pollen,Pollenknödel
+???,나뭇잎,このは,Leafage,Feuillage,Blattwerk
+???,눈물그렁그렁,なみだめ,Tearful Look,Larme à l'Œil,Tränendrüse
+???,덤벼들기,とびかかる,Lunge,Furie-Bond,Anfallen
+???,독실,どくのいと,Toxic Thread,Fil Toxique,Giftfaden
+???,드래곤해머,ドラゴンハンマー,Dragon Hammer,Draco-Marteau,Drachenhammer
+???,만나자마자,であいがしら,First Impression,Escarmouche,Überrumpler
+???,멀티어택,マルチアタック,Multi-Attack,Multi-Angriff,Multiattacco
+???,메테오드라이브,メテオドライブ,Sunsteel Strike,Choc Météore,Stahlgestirn
+???,모래모으기,すなあつめ,Shore Up,Amass'Sable,Sandsammler
+???,물거품아리아,うたかたのアリア,Sparkling Aria,Aria de l'Écume,Schaumserenade
+???,부리캐논,くちばしキャノン,Beak Blast,Bec-Canon,Schnabelkanone
+???,분함의발구르기,じだんだ,Stomping Tantrum,Trépignement,Fruststampfer
+???,불꽃채찍,ほのおのムチ,Fire Lash,Fouet de Feu,Feuerpeitsche
+???,불사르기,もえつきる,Burn Up,Flamme Ultime,Ausbrennen
+???,사이코팽,サイコファング,Psychic Fangs,Psycho-Croc,Psychobeißer
+???,사이코필드,サイコフィールド,Psychic Terrain,Champ Psychique,Psychofeld
+???,섀도레이,シャドーレイ,Moongeist Beam,Rayon Spectral,Schattenstrahl
+???,섀도본,シャドーボーン,Shadow Bone,Os'Ombre,Schattenknochen
+???,섀도스틸,シャドースチール,Spectral Thief,Clepto-Mânes,Diebesschatten
+???,세차게휘두르기,ぶんまわす,Brutal Swing,Centrifugifle,Wirbler
+???,솔라블레이드,ソーラーブレード,Solar Blade,Lame Solaire,Solarklinge
+???,스마트호른,スマートホーン,Smart Strike,Estocorne,Schmalhorn
+???,스케일노이즈,スケイルノイズ,Clanging Scales,Vibrécaille,Schuppenrasseln
+???,스포트라이트,スポットライト,Spotlight,Projecteur,Rampenlicht
+???,스피드스웹,スピードスワップ,Speed Swap,Permuvitesse,Initiativetausch
+???,아이스해머,アイスハンマー,Ice Hammer,Marteau de Glace,Eishammer
+???,아쿠아브레이크,アクアブレイク,Liquidation,Aqua-Brèche,Aquadurchstoß
+???,앵커숏,アンカーショット,Anchor Shot,Ancrage,Ankerschuss
+???,어시스트기어,アシストギア,Gear Up,Engrenage,Hilfsmechanik
+???,엑셀록,アクセルロック,Accelerock,Vif Roc,Turbofelsen
+???,예민해지기,とぎすます,Laser Focus,Affilage,Konzentration
+???,오로라베일,オーロラベール,Aurora Veil,Voile Aurore,Auroraschleier
+???,자연의분노,しぜんのいかり,Nature's Madness,Ire de la Nature,Naturzorn
+???,잠재댄스,めざめるダンス,Revelation Dance,Danse Éveil,Wecktanz
+???,정화,じょうか,Purify,Purification,Läuterung
+???,지옥찌르기,じごくづき,Throat Chop,Exécu-Son,Neck Strike
+???,지휘,さいはい,Instruct,Sommation,Kommando
+???,찌리리따끔따끔,びりびりちくちく,Zing Zap,Électrikipik,Elektropikser
+???,코어퍼니셔,コアパニッシャー,Core Enforcer,Sanction Suprême,Sanktionskern
+???,토치카,トーチカ,Baneful Bunker,Blockhaus,Bunker
+???,트랩셸,トラップシェル,Shell Trap,Carapiège,Panzerfalle
+???,트로피컬킥,トロピカルキック,Trop Kick,Botte Sucrette,Tropenkick
+???,프리즘레이저,プリズムレーザー,Prismatic Laser,Laser Prisme,Prisma-Laser
+???,플라워힐,フラワーヒール,Floral Healing,Soin Floral,Florakur
+???,플뢰르캐논,フルールカノン,Fleur Cannon,Canon Floral,Kanonenbouquet
+???,힘흡수,ちからをすいとる,Strength Sap,Vol-Force,Kraftabsorber
+???,더블펀처,ダブルパンツァー,Double Iron Bash,Écrous d'Poing,Panzerfäuste
+???,다이맥스포,ダイマックスほう,Dynamax Cannon,Canon Dynamax,Dynamax-Kanone
+???,노려맞히기,ねらいうち,Snipe Shot,Tir de Précision,Präzisionsschuss
+???,물고버티기,くらいつく,Jaw Lock,Croque Fort,Fesselbiss
+???,볼가득넣기,ほおばる,Stuff Cheeks,Garde-à-Joues,Backenstopfer
+???,배수의진,はいすいのじん,No Retreat,Ultime Bastion,Finalformation
+???,타르숏,タールショット,Tar Shot,Goudronnage,Teerschuss
+???,마법가루,まほうのこな,Magic Powder,Poudre Magique,Magiepuder
+???,드래곤애로,ドラゴンアロー,Dragon Darts,Draco-Flèches,Drachenpfeile
+???,다과회,おちゃかい,Teatime,Thérémonie,Teatime
+???,문어굳히기,たこがため,Octolock,Octoprise,Octoklammer
+???,전격부리,でんげきくちばし,Bolt Beak,Prise de Bec,Schockschnabel
+???,아가미물기,エラがみ,Fishious Rend,Branchicrok,Kiemenbiss
+???,코트체인지,コートチェンジ,Court Change,Change-Côté,Seitenwechsel
+???,소울비트,ソウルビート,Clangorous Soul,Dracacophonie,Seelentanz
+???,바디프레스,ボディプレス,Body Press,Big Splash,Body Press
+???,데코레이션,デコレーション,Decorate,Nappage,Verzierung
+???,드럼어택,ドラムアタック,Drum Beating,Tambour Battant,Trommelschläge
+???,집게덫,トラバサミ,Snap Trap,Troquenard,Fangeisen
+???,화염볼,かえんボール,Pyro Ball,Ballon Brûlant,Feuerball
+???,거수참,きょじゅうざん,Behemoth Blade,Gladius Maximus,Gigantenhieb
+???,거수탄,きょじゅうだん,Behemoth Bash,Aegis Maxima,Gigantenstoß
+???,오라휠,オーラぐるま,Aura Wheel,Roue Libre,Aura-Rad
+???,와이드브레이커,ワイドブレイカー,Breaking Swipe,Abattage,Breitseite
+???,가지찌르기,えだづき,Branch Poke,Tapotige,Zweigstoß
+???,오버드라이브,オーバードライブ,Overdrive,Overdrive,Overdrive
+???,사과산,りんごさん,Apple Acid,Acide Malique,Apfelsäure
+???,G의힘,Ｇのちから,Grav Apple,Force G,Gravitation
+???,소울크래시,ソウルクラッシュ,Spirit Break,Choc Émotionnel,Seelenbruch
+???,원더스팀,ワンダースチーム,Strange Steam,Vapeur Féérique,Wunderdampf
+???,생명의물방울,いのちのしずく,Life Dew,Fontaine de Vie,Lebenstropfen
+???,블로킹,ブロッキング,Obstruct,Blocage,Abblocker
+???,사죄의찌르기,どげざつき,False Surrender,Fourbette,Kniefalltrick
+???,스타어설트,スターアサルト,Meteor Assault,Joute Astrale,Sternensturm
+???,철제광선,てっていこうせん,Steel Beam,Métalaser,Stahlstrahl
+,,,,,

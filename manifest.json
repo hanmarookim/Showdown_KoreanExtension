@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "showdown_korean",
+  "description": "translate pokemon names",
+  "version": "0.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "storage"
+  ]
+}

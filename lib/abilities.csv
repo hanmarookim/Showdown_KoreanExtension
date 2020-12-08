@@ -1,0 +1,261 @@
+﻿1,악취,あくしゅう,Stench,Puanteur,Duftnote
+2,잔비,あめふらし,Drizzle,Crachin,Niesel
+3,가속,かそく,Speed Boost,Turbo,Temposchub
+4,전투무장,カブトアーマー,Battle Armor,Armurbaston,Kampfpanzer
+5,옹골참,がんじょう,Sturdy,Fermeté,Robustheit
+6,습기,しめりけ,Damp,Moiteur,Feuchtigkeit
+7,유연,じゅうなん,Limber,Échauffement,Flexibilität
+8,모래숨기,すながくれ,Sand Veil,Voile Sable,Sandschleier
+9,정전기,せいでんき,Static,Statik,Statik
+10,축전,ちくでん,Volt Absorb,Absorb Volt,Voltabsorber
+11,저수,ちょすい,Water Absorb,Absorb Eau,H2O-Absorber
+12,둔감,どんかん,Oblivious,Benêt,Dösigkeit
+13,날씨부정,ノーてんき,Cloud Nine,Ciel Gris,Wolke Sieben
+14,복안,ふくがん,Compound Eyes,Œil Composé,Facettenauge
+15,불면,ふみん,Insomnia,Insomnia,Insomnia
+16,변색,へんしょく,Color Change,Déguisement,Farbwechsel
+17,면역,めんえき,Immunity,Vaccin,Immunität
+18,타오르는불꽃,もらいび,Flash Fire,Torche,Feuerfänger
+19,인분,りんぷん,Shield Dust,Écran Poudre,Puderabwehr
+20,마이페이스,マイペース,Own Tempo,Tempo Perso,Tempomacher
+21,흡반,きゅうばん,Suction Cups,Ventouse,Saugnapf
+22,위협,いかく,Intimidate,Intimidation,Bedroher
+23,그림자밟기,かげふみ,Shadow Tag,Marque Ombre,Wegsperre
+24,까칠한피부,さめはだ,Rough Skin,Peau Dure,Rauhaut
+25,불가사의부적,ふしぎなまもり,Wonder Guard,Garde Mystik,Wunderwache
+26,부유,ふゆう,Levitate,Lévitation,Schwebe
+27,포자,ほうし,Effect Spore,Pose Spore,Sporenwirt
+28,싱크로,シンクロ,Synchronize,Synchro,Synchro
+29,클리어바디,クリアボディ,Clear Body,Corps Sain,Neutraltorso
+30,자연회복,しぜんかいふく,Natural Cure,Médic Nature,Innere Kraft
+31,피뢰침,ひらいしん,Lightning Rod,Paratonnerre,Blitzfänger
+32,하늘의은총,てんのめぐみ,Serene Grace,Sérénité,Edelmut
+33,쓱쓱,すいすい,Swift Swim,Glissade,Wassertempo
+34,엽록소,ようりょくそ,Chlorophyll,Chlorophylle,Chlorophyll
+35,발광,はっこう,Illuminate,Lumiattirance,Erleuchtung
+36,트레이스,トレース,Trace,Calque,Fährte
+37,천하장사,ちからもち,Huge Power,Coloforce,Kraftkoloss
+38,독가시,どくのトゲ,Poison Point,Point Poison,Giftdorn
+39,정신력,せいしんりょく,Inner Focus,Attention,Konzentrator
+40,마그마의무장,マグマのよろい,Magma Armor,Armumagma,Magmapanzer
+41,수의베일,みずのベール,Water Veil,Ignifu-Voile,Aquahülle
+42,자력,じりょく,Magnet Pull,Magnépiège,Magnetfalle
+43,방음,ぼうおん,Soundproof,Anti-Bruit,Lärmschutz
+44,젖은접시,あめうけざら,Rain Dish,Cuvette,Regengenuss
+45,모래날림,すなおこし,Sand Stream,Sable Volant,Sandsturm
+46,프레셔,プレッシャー,Pressure,Pression,Erzwinger
+47,두꺼운지방,あついしぼう,Thick Fat,Isograisse,Speckschicht
+48,일찍기상,はやおき,Early Bird,Matinal,Frühwecker
+49,불꽃몸,ほのおのからだ,Flame Body,Corps Ardent,Flammkörper
+50,도주,にげあし,Run Away,Fuite,Angsthase
+51,날카로운눈,するどいめ,Keen Eye,Regard Vif,Adlerauge
+52,괴력집게,かいりきバサミ,Hyper Cutter,Hyper Cutter,Scherenmacht
+53,픽업,ものひろい,Pickup,Ramassage,Mitnahme
+54,게으름,なまけ,Truant,Absentéisme,Schnarchnase
+55,의욕,はりきり,Hustle,Agitation,Übereifer
+56,헤롱헤롱바디,メロメロボディ,Cute Charm,Joli Sourire,Charmebolzen
+57,플러스,プラス,Plus,Plus,Plus
+58,마이너스,マイナス,Minus,Minus,Minus
+59,기분파,てんきや,Forecast,Météo,Prognose
+60,점착,ねんちゃく,Sticky Hold,Glue,Wertehalter
+61,탈피,だっぴ,Shed Skin,Mue,Expidermis
+62,근성,こんじょう,Guts,Cran,Adrenalin
+63,이상한비늘,ふしぎなうろこ,Marvel Scale,Écaille Spéciale,Notschutz
+64,해감액,ヘドロえき,Liquid Ooze,Suintement,Kloakensoße
+65,심록,しんりょく,Overgrow,Engrais,Notdünger
+66,맹화,もうか,Blaze,Brasier,Großbrand
+67,급류,げきりゅう,Torrent,Torrent,Sturzbach
+68,벌레의알림,むしのしらせ,Swarm,Essaim,Hexaplaga
+69,돌머리,いしあたま,Rock Head,Tête de Roc,Steinhaupt
+70,가뭄,ひでり,Drought,Sécheresse,Dürre
+71,개미지옥,ありじごく,Arena Trap,Piège,Ausweglos
+72,의기양양,やるき,Vital Spirit,Esprit Vital,Munterkeit
+73,하얀연기,しろいけむり,White Smoke,Écran Fumée,Pulverrauch
+74,순수한힘,ヨガパワー,Pure Power,Force Pure,Mentalkraft
+75,조가비갑옷,シェルアーマー,Shell Armor,Coque Armure,Panzerhaut
+76,에어록,エアロック,Air Lock,Air Lock,Klimaschutz
+77,갈지자걸음,ちどりあし,Tangled Feet,Pieds Confus,Fußangel
+78,전기엔진,でんきエンジン,Motor Drive,Motorisé,Starthilfe
+79,투쟁심,とうそうしん,Rivalry,Rivalité,Rivalität
+80,불굴의마음,ふくつのこころ,Steadfast,Impassible,Felsenfest
+81,눈숨기,ゆきがくれ,Snow Cloak,Rideau Neige,Schneemantel
+82,먹보,くいしんぼう,Gluttony,Gloutonnerie,Völlerei
+83,분노의경혈,いかりのつぼ,Anger Point,Colérique,Kurzschluss
+84,곡예,かるわざ,Unburden,Délestage,Entlastung
+85,내열,たいねつ,Heatproof,Ignifugé,Hitzeschutz
+86,단순,たんじゅん,Simple,Simple,Wankelmut
+87,건조피부,かんそうはだ,Dry Skin,Peau Sèche,Trockenheit
+88,다운로드,ダウンロード,Download,Télécharge,Download
+89,철주먹,てつのこぶし,Iron Fist,Poing de Fer,Eisenfaust
+90,포이즌힐,ポイズンヒール,Poison Heal,Soin Poison,Aufheber
+91,적응력,てきおうりょく,Adaptability,Adaptabilité,Anpassung
+92,스킬링크,スキルリンク,Skill Link,Multi-Coups,Wertelink
+93,촉촉바디,うるおいボディ,Hydration,Hydratation,Hydration
+94,선파워,サンパワー,Solar Power,Force Soleil,Solarkraft
+95,속보,はやあし,Quick Feet,Pied Véloce,Rasanz
+96,노말스킨,ノーマルスキン,Normalize,Normalise,Regulierung
+97,스나이퍼,スナイパー,Sniper,Sniper,Superschütze
+98,매직가드,マジックガード,Magic Guard,Garde Magik,Magieschild
+99,노가드,ノーガード,No Guard,Annule Garde,Schildlos
+100,시간벌기,あとだし,Stall,Frein,Zeitspiel
+101,테크니션,テクニシャン,Technician,Technicien,Techniker
+102,리프가드,リーフガード,Leaf Guard,Feuille Garde,Floraschild
+103,서투름,ぶきよう,Klutz,Maladresse,Tollpatsch
+104,틀깨기,かたやぶり,Mold Breaker,Brise Moule,Überbrückung
+105,대운,きょううん,Super Luck,Chanceux,Glückspilz
+106,유폭,ゆうばく,Aftermath,Boom Final,Finalschlag
+107,위험예지,きけんよち,Anticipation,Anticipation,Vorahnung
+108,예지몽,よちむ,Forewarn,Prédiction,Vorwarnung
+109,천진,てんねん,Unaware,Inconscient,Unkenntnis
+110,색안경,いろめがね,Tinted Lens,Lentiteintée,Aufwertung
+111,필터,フィルター,Filter,Filtre,Filter
+112,슬로스타트,スロースタート,Slow Start,Début Calme,Saumselig
+113,배짱,きもったま,Scrappy,Querelleur,Rauflust
+114,마중물,よびみず,Storm Drain,Lavabo,Sturmsog
+115,아이스바디,アイスボディ,Ice Body,Corps Gel,Eishaut
+116,하드록,ハードロック,Solid Rock,Solide Roc,Felskern
+117,눈퍼뜨리기,ゆきふらし,Snow Warning,Alerte Neige,Hagelalarm
+118,꿀모으기,みつあつめ,Honey Gather,Cherche Miel,Honigmaul
+119,통찰,おみとおし,Frisk,Fouille,Schnüffler
+120,이판사판,すてみ,Reckless,Téméraire,Achtlos
+121,멀티타입,マルチタイプ,Multitype,Multi-Type,Variabilität
+122,플라워기프트,フラワーギフト,Flower Gift,Don Floral,Pflanzengabe
+123,나이트메어,ナイトメア,Bad Dreams,Mauvais Rêve,Alptraum
+124,나쁜손버릇,わるいてぐせ,Pickpocket,Pickpocket,Langfinger
+125,우격다짐,ちからずく,Sheer Force,Sans Limite,Rohe Gewalt
+126,심술꾸러기,あまのじゃく,Contrary,Contestation,Umkehrung
+127,긴장감,きんちょうかん,Unnerve,Tension,Anspannung
+128,오기,まけんき,Defiant,Acharné,Siegeswille
+129,무기력,よわき,Defeatist,Défaitiste,Schwächling
+130,저주받은바디,のろわれボディ,Cursed Body,Corps Maudit,Tastfluch
+131,치유의마음,いやしのこころ,Healer,Cœur Soin,Heilherz
+132,프렌드가드,フレンドガード,Friend Guard,Garde Amie,Freundeshut
+133,깨어진갑옷,くだけるよろい,Weak Armor,Armurouillée,Bruchrüstung
+134,헤비메탈,ヘヴィメタル,Heavy Metal,Heavy Metal,Schwermetall
+135,라이트메탈,ライトメタル,Light Metal,Light Metal,Leichtmetall
+136,멀티스케일,マルチスケイル,Multiscale,Multiécaille,Multischuppe
+137,독폭주,どくぼうそう,Toxic Boost,Rage Poison,Giftwahn
+138,열폭주,ねつぼうそう,Flare Boost,Rage Brûlure,Hitzewahn
+139,수확,しゅうかく,Harvest,Récolte,Reiche Ernte
+140,텔레파시,テレパシー,Telepathy,Télépathe,Telepathie
+141,변덕쟁이,ムラっけ,Moody,Lunatique,Gefühlswippe
+142,방진,ぼうじん,Overcoat,Envelocape,Wetterfest
+143,독수,どくしゅ,Poison Touch,Toxitouche,Giftgriff
+144,재생력,さいせいりょく,Regenerator,Régé-Force,Belebekraft
+145,부풀린가슴,はとむね,Big Pecks,Cœur de Coq,Brustbieter
+146,모래헤치기,すなかき,Sand Rush,Baigne Sable,Sandscharrer
+147,미라클스킨,ミラクルスキン,Wonder Skin,Peau Miracle,Wunderhaut
+148,애널라이즈,アナライズ,Analytic,Analyste,Analyse
+149,일루전,イリュージョン,Illusion,Illusion,Trugbild
+150,괴짜,かわりもの,Imposter,Imposteur,Doppelgänger
+151,틈새포착,すりぬけ,Infiltrator,Infiltration,Schwebedurch
+152,미라,ミイラ,Mummy,Momie,Mumie
+153,자기과신,じしんかじょう,Moxie,Impudence,Hochmut
+154,정의의마음,せいぎのこころ,Justified,Cœur Noble,Redlichkeit
+155,주눅,びびり,Rattled,Phobique,Hasenfuß
+156,매직미러,マジックミラー,Magic Bounce,Miroir Magik,Magiespiegel
+157,초식,そうしょく,Sap Sipper,Herbivore,Vegetarier
+158,짓궂은마음,いたずらごころ,Prankster,Farceur,Strolch
+159,모래의힘,すなのちから,Sand Force,Force Sable,Sandgewalt
+160,철가시,てつのトゲ,Iron Barbs,Épine de Fer,Eisenstachel
+161,달마모드,ダルマモード,Zen Mode,Mode Transe,Trance-Modus
+162,승리의별,しょうりのほし,Victory Star,Victorieux,Triumphstern
+163,터보블레이즈,ターボブレイズ,Turboblaze,TurboBrasier,Turbobrand
+164,테라볼티지,テラボルテージ,Teravolt,Téra-Voltage,Teravolt
+165,아로마베일,アロマベール,Aroma Veil,Aroma-Voile,Dufthülle
+166,플라워베일,フラワーベール,Flower Veil,Flora-Voile,Blütenhülle
+167,볼주머니,ほおぶくろ,Cheek Pouch,Bajoues,Backentaschen
+168,변환자재,へんげんじざい,Protean,Protéen,Wandlungskunst
+169,퍼코트,ファーコート,Fur Coat,Toison Épaisse,Fellkleid
+170,매지션,マジシャン,Magician,Magicien,Zauberer
+171,방탄,ぼうだん,Bulletproof,Pare-Balles,Kugelsicher
+172,승기,かちき,Competitive,Battant,Unbeugsamkeit
+173,옹골찬턱,がんじょうあご,Strong Jaw,Prognathe,Titankiefer
+174,프리즈스킨,フリーズスキン,Refrigerate,Peau Gelée,Frostschicht
+175,스위트베일,スイートベール,Sweet Veil,Gluco-Voile,Zuckerhülle
+176,배틀스위치,バトルスイッチ,Stance Change,Déclic Tactique,Taktikwechsel
+177,질풍날개,はやてのつばさ,Gale Wings,Ailes Bourrasque,Orkanschwingen
+178,메가런처,メガランチャー,Mega Launcher,Méga Blaster,Megawumme
+179,풀모피,くさのけがわ,Grass Pelt,Toison Herbue,Pflanzenpelz
+180,공생,きょうせい,Symbiosis,Symbiose,Nutznießer
+181,단단한발톱,かたいツメ,Tough Claws,Griffe Dure,Krallenwucht
+182,페어리스킨,フェアリースキン,Pixilate,Peau Féérique,Feenschicht
+183,미끈미끈,ぬめぬめ,Gooey,Poisseux,Viskosität
+184,스카이스킨,スカイスキン,Aerilate,Peau Céleste,Zenithaut
+185,부자유친,おやこあい,Parental Bond,Amour Filial,Familienbande
+186,다크오라,ダークオーラ,Dark Aura,Aura Ténébreuse,Dunkelaura
+187,페어리오라,フェアリーオーラ,Fairy Aura,Aura Féérique,Feenaura
+188,오라브레이크,オーラブレイク,Aura Break,Aura Inversée,Aura-Umkehr
+189,시작의바다,はじまりのうみ,Primordial Sea,Mer Primaire,Urmeer
+190,끝의대지,おわりのだいち,Desolate Land,Terre Finale,Endland
+191,델타스트림,デルタストリーム,Delta Stream,Souffle Delta,Delta-Wind
+192,AR시스템,ＡＲシステム,RKS System,Système Alpha,Alpha-System
+193,촉촉보이스,うるおいボイス,Liquid Voice,Hydrata-Son,Plätscherstimme
+194,일렉트릭스킨,エレキスキン,Galvanize,Peau Électrique,Elektrohaut
+195,원격,えんかく,Long Reach,Longue Portée,Langstrecke
+196,무희,おどりこ,Dancer,Danseuse,Tänzer
+197,컬리헤어,カーリーヘアー,Tangling Hair,Mèche Rebelle,Lockenkopf
+198,과학의힘,かがくのちから,Power of Alchemy,Osmose,Chemiekraft
+199,위기회피,ききかいひ,Emergency Exit,Repli Tactique,Rückzug
+200,발끈,ぎゃくじょう,Berserk,Dracolère,Wutausbruch
+201,어군,ぎょぐん,Schooling,Banc,Fischschwarm
+202,서핑테일,サーフテール,Surge Surfer,Surf Caudal,Surf-Schweif
+203,지구력,じきゅうりょく,Stamina,Endurance,Zähigkeit
+204,여왕의위엄,じょおうのいげん,Queenly Majesty,Prestance Royale,Majestät
+205,수포,すいほう,Water Bubble,Aquabulle,Wasserblase
+206,스웜체인지,スワームチェンジ,Power Construct,Rassemblement,Scharwandel
+207,절대안깸,ぜったいねむり,Comatose,Hypersommeil,Dauerschlaf
+208,내용물분출,とびだすなかみ,Innards Out,Expuls'Organes,Magenkrempler
+209,도망태세,にげごし,Wimp Out,Escampette,Reißaus
+210,강철술사,はがねつかい,Steelworker,Expert Acier,Stahlprofi
+211,탈,ばけのかわ,Disguise,Fantômasque,Kostümspuk
+212,배터리,バッテリー,Battery,Batterie,Batterie
+213,잠복,はりこみ,Stakeout,Filature,Beschattung
+214,힐링시프트,ヒーリングシフト,Triage,Prioguérison,Heilwandel
+215,무도한행동,ひとでなし,Merciless,Cruauté,Quälerei
+216,비비드바디,ビビッドボディ,Dazzling,Corps Coloré,Buntkörper
+217,부식,ふしょく,Corrosion,Corrosion,Korrosion
+218,꾸덕꾸덕굳기,みずがため,Water Compaction,Sable Humide,Verklumpen
+219,복슬복슬,もふもふ,Fluffy,Boule de Poils,Flauschigkeit
+220,눈치우기,ゆきかき,Slush Rush,Chasse-Neige,Schneescharrer
+221,리밋실드,リミットシールド,Shields Down,Bouclier-Carcan,Limitschild
+222,리시버,レシーバー,Receiver,Receveur,Receiver
+223,일렉트릭메이커,エレキメイカー,Electric Surge,Créa-Élec,Elektro-Erzeuger
+224,사이코메이커,サイコメイカー,Psychic Surge,Créa-Psy,Psycho-Erzeuger
+225,그래스메이커,グラスメイカー,Grassy Surge,Créa-Herbe,Gras-Erzeuger
+226,미스트메이커,ミストメイカー,Misty Surge,Créa-Brume,Nebel-Erzeuger
+227,메탈프로텍트,メタルプロテクト,Full Metal Body,Métallo-Garde,Metallprotektor
+228,스펙터가드,ファントムガード,Shadow Shield,Spectro-Bouclier,Phantomschutz
+229,비스트부스트,ビーストブースト,Beast Boost,Boost Chimère,Bestien-Boost
+230,프리즘아머,プリズムアーマー,Prism Armor,Prisme-Armure,Prismarüstung
+231,소울하트,ソウルハート,Soul-Heart,Animacœur,Seelenherz
+???,강철정신,はがねのせいしん,Steely Spirit,Boost Acier,Stählerner Wille
+???,굳건한신념,すじがねいり,Stalwart,Nerfs d'Acier,Stahlrückgrat
+???,그대로꿀꺽미사일,うのミサイル,Gulp Missile,Dégobage,Würggeschoss
+???,꼬르륵스위치,はらぺこスイッチ,Hunger Switch,Déclic Fringale,Heißhunger
+???,떠도는영혼,さまようたましい,Wandering Spirit,Âme Vagabonde,Rastlose Seele
+???,리베로,リベロ,Libero,Libéro,Libero
+???,멸망의바디,ほろびのボディ,Perish Body,Corps Condamné,Unheilskörper
+???,모래뿜기,すなはき,Sand Spit,Expul'Sable,Sandspeier
+???,무아지경,ごりむちゅう,Gorilla Tactics,Entêtement,Affenfokus
+???,미러아머,ミラーアーマー,Mirror Armor,Armure Miroir,Spiegelrüstung
+???,배리어프리,バリアフリー,Screen Cleaner,Brise-Barrière,Hemmungslos
+???,보이지않는주먹,ふかしのこぶし,Unseen Fist,Poing Invisible,Verborgene Faust
+???,볼줍기,たまひろい,Ball Fetch,Ramasse Ball,Apport
+???,불굴의방패,ふくつのたて,Dauntless Shield,Égide Inflexible,Wackerer Schild
+???,불요의검,ふとうのけん,Intrepid Sword,Lame Indomptable,Kühnes Schwert
+???,솜털,わたげ,Cotton Down,Effilochage,Wollflaum
+???,숙성,じゅくせい,Ripen,Mûrissement,Heranreifen
+???,스크루지느러미,スクリューおびれ,Propeller Tail,Propulseur,Schraubflosse
+???,아이스페이스,アイスフェイス,Ice Face,Tête de Gel,Tiefkühlkopf
+???,얼음인분,こおりのりんぷん,Ice Scales,Écailles Glacées,Eisflügelstaub
+???,용의턱,りゅうのあぎと,Dragon’s Maw,,
+???,의태,ぎたい,Mimicry,Mimétisme,Mimese
+???,증기기관,じょうききかん,Steam Engine,Turbine,Dampfantrieb
+???,퀵드로,クイックドロウ,Quick Draw,,
+???,트랜지스터,トランジスタ,Transistor,,
+???,파스텔베일,パステルベール,Pastel Veil,Voile Pastel,Pastellhülle
+???,파워스폿,パワースポット,Power Spot,Cercle d'Énergie,Kraftquelle
+???,펑크록,パンクロック,Punk Rock,Punk Rock,Punk Rock
+???,화학변화가스,かがくへんかガス,Neutralizing Gas,Gaz Inhibiteur,Reaktionsgas
+,,,,,
